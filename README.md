@@ -4,7 +4,7 @@
 
 SafeFall AI is a real-time elderly fall detection system built on pose estimation and deep learning. It detects human posture, classifies activity (Fall Detected, Walking, Sitting, Standing, Normal Activity), and fires emergency alerts the moment a fall occurs — deployed as a live, interactive Streamlit dashboard.
 
-**🔗 Live App:** [safefall-ai.streamlit.app](https://safefall-ai-2pfgkwff6vvfgon4kd6scz.streamlit.app/)
+**🔗 Live App:** [safefall-ai.streamlit.app](https://iadai201-1000408-sriprasath-p-safefall-ai-9qruxbxeo8cueizyj8np.streamlit.app/)
 
 ---
 
